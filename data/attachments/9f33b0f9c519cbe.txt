@@ -1,5 +1,0 @@
-{
-  username: 'user_1792287927247_4763',
-  email: 'test_1792287927247_4763@example.com',
-  password: 'SecurePassword123!'
-}
